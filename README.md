@@ -6,7 +6,7 @@ This repository contains comprehensive Java study notes, organized into three ma
 
 | File               | Description                                                            |
 |--------------------|------------------------------------------------------------------------|
-| [java_basic.md](java_basic.md)   | Java Fundamentals: variables, data types, type casting, control flow, loops, arrays. |
+| [java_basics.md](java_basics.md)   | Java Fundamentals: variables, data types, type casting, control flow, loops, arrays. |
 | [java_methods.md](java_methods.md) | Java Methods: declaration, parameters, return values, overloading, recursion.        |
 | [java_oop.md](java_oop.md)       | Object-Oriented Programming: classes, objects, inheritance, polymorphism, encapsulation, interfaces. |
 
