@@ -1,4 +1,4 @@
-# Java Tutorial
+# Java Notes
 
 This repository contains comprehensive Java study notes, organized into three main topics. Click any link below to view the detailed Markdown file.
 
