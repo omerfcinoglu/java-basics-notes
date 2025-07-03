@@ -14,6 +14,18 @@ This repository contains comprehensive Java study notes, organized into three ma
 
 These notes are based on the [W3Schools Java Tutorial](https://www.w3schools.com/java/).
 
+# [Employee Management Example ](./employee_management_example/Main.java)
+
+A concise Java example demonstrating inheritance, array handling, and basic data operations:
+
+- **`Person`** – base class with `name` and `age` fields plus getters/setters
+- **`Employee`** – extends `Person`, adds a `salary` field with its own getters/setters
+- **`Company`** – holds an array of `Employee` objects and provides:
+  - `addEmployee(index, emp)` to populate the array
+  - `calculateTotalSalary()` to sum all salaries
+  - `getOldestEmployee()` to find the employee with the highest age
+- **`Main`** – creates a `Company`, adds sample `Employee` instances, prints the total payroll, and displays the oldest employee’s name and age
+
 # [Pet Owner Example](./pet_owner_example/Main.java)
 
 A small Java application demonstrating core OOP concepts:
